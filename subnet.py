@@ -8,16 +8,16 @@ p1First = '213.65.95.129'
 p1Last =  '213.65.95.254'
 
 #problem 2
-p2Network = ''
-p2Broadcast = ''
-p2First = ''
-p2Last = ''
+p2Network = '124.50.57.216'
+p2Broadcast = '124.50.57.223'
+p2First = '124.50.57.217'
+p2Last = '124.50.57.222'
 
 #problem 3
-p3Network = ''
-p3Broadcast = ''
-p3First = ''
-p3Last = ''
+p3Network = '35.35.19.0'
+p3Broadcast = '35.35.19.63'
+p3First = '35.35.19.1'
+p3Last = '35.35.19.62'
 
 #problem 4
 p4Network = ''
